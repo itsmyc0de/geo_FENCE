@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android_Git_Ws\Androidphp\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6df0560f2a0e71bfe32a41b61e5a7c0bf0be2dca">
+        <dex dex="G:\Android_Git_Ws\Androidphp\app\build\intermediates\pre-dexed\debug\classes_903a3098840550a0a766f15c84f92994e11d902f.jar" />
+    </item>
+
+</items>
